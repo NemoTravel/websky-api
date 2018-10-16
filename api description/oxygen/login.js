@@ -12,6 +12,7 @@
  @apiGroup Oxygen
 
  @apiParam {String} login Email пользователя
+ @apiParam {String} password
 
 
  @apiSuccessExample {json} success:

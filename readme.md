@@ -1,5 +1,6 @@
 ### Работа с движком websky в пределах одной сессии
 
+
 #### Инициализация
 - сначала происходит [запрос](https://litvinenkoevgeny.github.io/websky-api/#api-Oxygen-get_aliases) получения языковых переменных для всего движка
 - после [запрашиваем](http://tst.sirena-travel.ru/websky-ut/json/aliases-declaration.json) языковые переменные для конкретной авиакомпании

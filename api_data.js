@@ -895,6 +895,13 @@ define({ "api": [
             "optional": false,
             "field": "login",
             "description": "<p>Email пользователя</p>"
+          },
+          {
+            "group": "Parameter",
+            "type": "String",
+            "optional": false,
+            "field": "password",
+            "description": ""
           }
         ]
       }
